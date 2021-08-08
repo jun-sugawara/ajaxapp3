@@ -1,4 +1,4 @@
 function check() {
-  conts posts = document.querySelectorAll(".post");
+  const posts = document.querySelectorAll(".post");
 }
 window.addEventListener("load", check);
